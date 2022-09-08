@@ -17,8 +17,8 @@ REGIME SEMIABERTO
 
 REGIME FECHADO
 - Para detentos que pegaram mais de 8 anos de pena
-- A pena é cumprida e Prisões
-- Não tem direito a estudo e trabalho. Fica no Presídio o dia inteiro
+- A pena é cumprida em Prisões
+- Tem direito a estudo e trabalho. Fica no Presídio o dia inteiro
 - Exame criminológico Obrigatório
 - Dependendo do comportamento, pode progredir para o regime semiaberto
 
@@ -37,6 +37,11 @@ REMIÇÃO DA PENA
   - EX: Dia 1, 3h - Dia 2, 4h - Dia 3, 5h
   
   INFRAÇÃO GRAVE
-  - Caso, o detendo, faça allguma infração grave, será penalizado com 1/3 dos dias que ele reduzio de sua pena
+  - Caso, o detendo, faça alguma infração grave, será penalizado com 1/3 dos dias que el conquistou na redução de sua pena.
   - EX: Carlos ja tirou 9 dias de sua pena, portanto, acaba cometendo uma infraçâo grave, ele perdera 3 dias de sua pena. Assim, ficando com apenas 6 dias.
-  
+ 
+TIPOS de DOLOS
+  - Dolo Eventual:
+
+TIPOS DE CULPAS
+
