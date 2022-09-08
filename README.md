@@ -6,12 +6,12 @@ Classificação dos REGIMES
 REGIME ABERTO
 - Para detentos que pegaram menos de 4 anos de pena
 - A pena é cumprida em casas de albergado ou no domicilio do preso ( o Juiz decide o lugar).
-- Tem direito de sair a tarde para estudar ou trabalhar e a noite volta para a cela.
+- Tem direito de sair a tarde para estudar ou trabalhar e a noite volta para a o domicílio
 - Não precisa de exame criminológico
 
 REGIME SEMIABERTO
 - Para detentos que pegaram entre 4 a 8 anos de pena
-- A pena é cumprida em Colôneas agrícolas ou industrias.
+- A pena é cumprida em Colônias agrícolas ou industrias.
 - Tem direito de sair a tarde para estudar ou trabalhar e a noite volta para a cela.
 - Exame criminológico Facultativo
 
