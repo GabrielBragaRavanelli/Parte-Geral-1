@@ -34,7 +34,7 @@ REMIÇÃO DA PENA
   - Apenas para Regime semiaberto e fechado
   - A cada 12h de estudos, é reduzido 1 dia da pena
   - Pode ser divido em diversos dias
-  - EX: Dia 1, 3h Dia 2, 4h Dia 3, 5h
+  - EX: Dia 1, 3h - Dia 2, 4h - Dia 3, 5h
   
   INFRAÇÃO GRAVE
   - Caso, o detendo, faça allguma infração grave, será penalizado com 1/3 dos dias que ele reduzio de sua pena
