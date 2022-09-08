@@ -11,8 +11,8 @@ REGIME ABERTO
 
 REGIME SEMIABERTO
 - Para detentos que pegaram entre 4 a 8 anos de pena
-- A pena é cumprida em Colônias agrícolas ou industrias.
-- Tem direito de sair a tarde para estudar ou trabalhar e a noite volta para a cela.
+- A pena é cumprida em Colônias agrícolas ou industriais.
+- Tem direito de sair a tarde para estudar ou trabalhar e, a noite volta para a cela.
 - Exame criminológico Facultativo
 
 REGIME FECHADO
