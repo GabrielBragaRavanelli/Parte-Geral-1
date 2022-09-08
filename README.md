@@ -41,7 +41,16 @@ REMIÇÃO DA PENA
   - EX: Carlos ja tirou 9 dias de sua pena, portanto, acaba cometendo uma infraçâo grave, ele perdera 3 dias de sua pena. Assim, ficando com apenas 6 dias.
  
 TIPOS de DOLOS
-  - Dolo Eventual:
+  - Dolo Eventual: O agente não quer o resultado, porém prevê a possibilidade - qunado  acontece o resultado ele aceita
+    - EX: A quer lesionar B, mas não se importa se matar.
+  - Dolo Direto: Quer o resultado - Tem a previsão do resultado
+    - Tem dois graus:
+      -1º grau:
+      -2º grau:
+  - Dolo indireto: Não quer o resultado - Tem a previsão do resultado e assume o risco de causá-lo
+    - EX: A quer matar ou lesionar B, ele tem vontade igual para ambos os resultados.
 
 TIPOS DE CULPAS
+  - Culpa consciente: O agente prevê que sua conduta pode levar o certo resultado, embora acredite sinceramnete, que ele não ocorrerá, atuando para evita-lo e , quando acontece o agente não aceita o resultado.
+  - Culpa inconsciente: Culpa sem previsão do resultado por parte do agente, embora presvisivel para a maioria das pessoas.
 
