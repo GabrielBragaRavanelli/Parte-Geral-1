@@ -54,8 +54,9 @@ TIPOS DE CULPAS
   - Culpa consciente: O agente prevê que sua conduta pode levar o certo resultado, embora acredite sinceramnete, que ele não ocorrerá, atuando para evita-lo e , quando acontece o agente não aceita o resultado.
   - Culpa inconsciente: Culpa sem previsão do resultado por parte do agente, embora presvisivel para a maioria das pessoas.
   
- DETENÇÂO
-- Para crimes com maior tamanho. Regime aberto, Semiaberto e Fechado
- RECLUSÃO
-- Para crimes com menor tamanhao. Regime aberto e Semiaberto
+DETENÇÂO
+- Para indivíduos que cometeram crimes menos graves. Regime aberto e Semiaberto 
+ 
+RECLUSÃO
+- Para indivíduos que cometeram crimes mais grave. Regime aberto, Semiaberto e Fechado
 
