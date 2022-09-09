@@ -1,5 +1,5 @@
 # Parte-Geral-1
-Tipos de Regimes, Remição da pena, dolos e culpas
+Tipos de Regimes, Remição da pena, dolos e culpas, Detenção, Reclusão, Prisão
 
 Classificação dos REGIMES
 
@@ -55,8 +55,11 @@ TIPOS DE CULPAS
   - Culpa inconsciente: Culpa sem previsão do resultado por parte do agente, embora presvisivel para a maioria das pessoas.
   
 DETENÇÂO
-- Para indivíduos que cometeram crimes menos graves. Regime aberto e Semiaberto 
+- Para indivíduos que cometeram crimes menos graves. Regime aberto e Semiaberto.
  
 RECLUSÃO
-- Para indivíduos que cometeram crimes mais grave. Regime aberto, Semiaberto e Fechado
+- Para indivíduos que cometeram crimes mais grave. Regime aberto, Semiaberto e Fechado.
+
+Prisão
+- Conceito: É o cerceamneto da liberdade de locomoção
 
