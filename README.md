@@ -45,12 +45,17 @@ TIPOS de DOLOS
     - EX: A quer lesionar B, mas não se importa se matar.
   - Dolo Direto: Quer o resultado - Tem a previsão do resultado
     - Tem dois graus:
-      -1º grau:
-      -2º grau:
+     -1º grau: O agente tem consciência e vontade de concretizar os requisitos objetivos do tipo e executa a ação de modo a atingir apenas o bem jurídico pretendido. Ex: A quer matar B, para isso atira em sua cabeça - o dolo de A em relação com B é dolo direto de 1º grau.
+     -2º grau:É também chamado de dolo de consequências. Nessa modalidade, do agente tem consciência e vontade de concretizar os requisitos objetivos do tipo, porém o meio utilizado por ele vai gerar efeito  colateral  típico . Ex: A quer matar B, para isso coloca uma bomba no avião lotado de pessoas que B está - o dolo entra A e B é dolo direto de 1º grau mas o dolo entre A e os passageiros desconhecidos é dolo direto de 2º grau.
   - Dolo indireto: Não quer o resultado - Tem a previsão do resultado e assume o risco de causá-lo
     - EX: A quer matar ou lesionar B, ele tem vontade igual para ambos os resultados.
 
 TIPOS DE CULPAS
   - Culpa consciente: O agente prevê que sua conduta pode levar o certo resultado, embora acredite sinceramnete, que ele não ocorrerá, atuando para evita-lo e , quando acontece o agente não aceita o resultado.
   - Culpa inconsciente: Culpa sem previsão do resultado por parte do agente, embora presvisivel para a maioria das pessoas.
+  
+DETENÇÂO
+- Para crimes com maior tamanho. Regime aberto, Semiaberto e Fechado
+RECLUSÃO
+- Para crimes com menor tamanhao. Regime aberto e Semiaberto
 
