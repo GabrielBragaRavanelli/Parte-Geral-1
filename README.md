@@ -61,5 +61,5 @@ RECLUSÃO
 - Para indivíduos que cometeram crimes mais grave. Regime aberto, Semiaberto e Fechado.
 
 Prisão
-- Conceito: É o cerceamneto da liberdade de locomoção
+- O que é prisão: É o cerceamento da liberdade de locomoção
 
