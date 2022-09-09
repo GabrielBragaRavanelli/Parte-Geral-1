@@ -26,22 +26,22 @@ REMIÇÃO DA PENA
 - Agora que ja sabemos todos os regimes, os detentos, dependendo do seu comportamento ou por meio de estudos e trabalhos, podem ter suas penas reduzidas.
 
   Trabalho
-  - Apenas para regime semiaberto ou Fechado
+  - Para regime aberto, semiaberto ou Fechado
   - A cada 3 dias de trabalho, é reduzido 1 dia da pena
   - A carga horária do trabalho deve ser de 6 a 8h
   
   Estudos
-  - Apenas para Regime semiaberto e fechado
+  - Para Regime aberto, semiaberto e fechado
   - A cada 12h de estudos, é reduzido 1 dia da pena
   - Pode ser divido em diversos dias
   - EX: Dia 1, 3h - Dia 2, 4h - Dia 3, 5h
   
   INFRAÇÃO GRAVE
-  - Caso, o detendo, faça alguma infração grave, será penalizado com 1/3 dos dias que el conquistou na redução de sua pena.
+  - Caso, o detendo, faça alguma infração grave, será penalizado com 1/3 dos dias que ele conquistou na redução de sua pena.
   - EX: Carlos ja tirou 9 dias de sua pena, portanto, acaba cometendo uma infraçâo grave, ele perdera 3 dias de sua pena. Assim, ficando com apenas 6 dias.
  
 TIPOS de DOLOS
-  - Dolo Eventual: O agente não quer o resultado, porém prevê a possibilidade - qunado  acontece o resultado ele aceita
+  - Dolo Eventual: O agente não quer o resultado, porém prevê a possibilidade - quando  acontece o resultado, ele aceita.
     - EX: A quer lesionar B, mas não se importa se matar.
   - Dolo Direto: Quer o resultado - Tem a previsão do resultado
     - Tem dois graus:
