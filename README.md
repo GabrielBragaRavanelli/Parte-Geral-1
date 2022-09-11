@@ -60,12 +60,15 @@ DETENÇÂO
 RECLUSÃO
 - Para indivíduos que cometeram crimes mais grave. Regime aberto, Semiaberto e Fechado.
 
-Prisão
+PRISÃO
 - O que é prisão: É o cerceamento da liberdade de locomoção.
 
-Réu Primario
+RÉU PRIMARIO
 - O indivíduo é chamado de réu primario, pois ele não cometeu nenhum crime anteriormente.
-
-Reincidente
+- Possui a Pena reduzida em 1/6 para crimes simples e 2/5 para crimes hediondos     
+ 
+REINCIDENTE
 - Já o indíviduo reincidente, apresenta esse nome, pois é aquele que cometeu um crime depois de ter sido condenado por sentença transitada em julgado por crime anterior.
+- 
+- O indivíduo, para de ser reincidente depois de 5 anos.
 
