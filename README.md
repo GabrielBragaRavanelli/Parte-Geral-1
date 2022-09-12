@@ -1,5 +1,5 @@
 # Parte-Geral-1
-Tipos de Regimes, Remição da pena, Dolos e Culpas, Detenção, Reclusão, Prisão, 
+Tipos de Regimes, Remição da pena, Dolos e Culpas, Detenção, Reclusão e Prisão
 
 Classificação dos REGIMES
 
